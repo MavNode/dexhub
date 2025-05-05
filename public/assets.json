@@ -1,0 +1,220 @@
+[
+  {
+    "name": "WSHIDO",
+    "symbol": "WSHIDO",
+    "supply": "18000000000",
+    "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
+    "priceInfo": {
+      "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
+      "baseToken": {
+        "symbol": "USDC",
+        "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+        "decimals": 6
+      }
+    },
+    "website": "https://shido.io",
+    "X": "https://twitter.com/ShidoGlobal",
+    "telegram": "https://t.me/ShidoGlobal",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/wrapped-shido/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/wrapped-shido",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "Kensei",
+    "symbol": "KENSEI",
+    "supply": "50000000000",
+    "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
+    "priceInfo": {
+      "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://kenseishido.com",
+    "X": "https://x.com/kenseishido",
+    "telegram": "https://t.me/kenseishido",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
+    "lockTimer": "2025-06-05T08:00:00Z"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
+    "priceInfo": {
+      "usdPrice": 1
+    },
+    "website": "https://www.usdc.com/",
+    "X": "https://twitter.com/circle",
+    "telegram": "https://dexhub.mavnode.io",
+    "verified": true
+  },
+  {
+    "name": "Shido Ninja",
+    "symbol": "NINJA",
+    "supply": "100000000000",
+    "address": "0x5ac082f693160eb2136d81aa9e772101109c11c4",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ninja.png",
+    "priceInfo": {
+      "poolAddress": "0x7ad1bbee1e2486c0af8377c6de00daa8210c75d8",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://shido.io",
+    "X": "https://twitter.com/ShidoGlobal",
+    "telegram": "https://t.me/ShidoGlobal",
+    "verified": true,
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "Salt",
+    "symbol": "SALT",
+    "supply": "1000000000000",
+    "address": "0x27027Eb11c456d690DEA785905C1915D6b444bCe",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/salt.png",
+    "priceInfo": {
+      "poolAddress": "0xfac4551574954b503adf7f352c10f5ffa39e6449",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dexhub.mavnode.io",
+    "X": "https://x.com/SALTSHI20",
+    "telegram": "https://dexhub.mavnode.io",
+    "verified": true,
+    "lockUrl": "https://gempad.app/locks/liquidity?id=2&network=Shido",
+    "lockTimer": "2025-10-18T06:03:00Z"
+  },
+  {
+    "name": "Shidokid",
+    "symbol": "KIDDO",
+    "supply": "500000000",
+    "address": "0x2835Ad9a421C14E1C571a5Bb492B86b7E8f5873A",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kiddo.png",
+    "priceInfo": {
+      "poolAddress": "0x76f2562b8826b14e0f0362724ec3887fbc62fb74",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://shidokid.com",
+    "telegram": "https://t.me/shido_kid",
+    "X": "https://x.com/shidokid",
+    "verified": true,
+    "lockTimer": "2027-09-30T13:06:00Z",
+    "lockUrl": "https://gempad.app/locks/liquidity?id=52&network=Shido"
+  },
+  {
+    "name": "Crazy-Chicken",
+    "symbol": "CHICK",
+    "supply": "10000000000",
+    "address": "0x37385e458bb1b19c614C238E5109E59ac605DF7a",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chick.png",
+    "priceInfo": {
+      "poolAddress": "0x600c9561b00e3bc569211dbb47ac134fd46d6746",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://www.crazychicken.net",
+    "telegram": "https://t.me/+AgMyEfk-kcRhZDY0",
+    "X": "https://x.com/chick_shi20",
+    "verified": true,
+    "lockUrl": "https://gempad.app/locks/project?token=0x37385e458bb1b19c614C238E5109E59ac605DF7a&network=Shido",
+    "lockTimer": "2025-12-31T13:41:00Z"
+  },
+  {
+    "name": "0xDead",
+    "symbol": "0xded",
+    "supply": "1000000000",
+    "address": "0x796F48d17d38E5f0A7aFe7966448828bdc13e8B1",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/0xdead.png",
+    "priceInfo": {
+      "poolAddress": "0x2ace39961c52d513ae0893891cf22efb2173d78b",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/Oxdeadshi20",
+    "X": "https://x.com/0xdeadshi20",
+    "verified": true,
+    "lockUrl": "https://gempad.app/locks/liquidity?id=57&network=Shido",
+    "lockTimer": "2026-02-26T21:28:00Z"
+  },
+  {
+    "name": "Shido Dex",
+    "symbol": "SHDX",
+    "supply": "10000000000",
+    "address": "0xe550Bde2F0898552B38a41635d7a8DDB1Fd81276",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shdx.png",
+    "priceInfo": {
+      "poolAddress": "0x0cd72bfeed75ea4e1a7c5928aa9d9ba40312a876",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://app.shido.io",
+    "telegram": "https://t.me/ShidoGlobal",
+    "X": "https://x.com/ShidoGlobal",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/shido-dex/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/shido-dex",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "Shidoshi",
+    "symbol": "SDS",
+    "supply": "1000000000",
+    "address": "0xF7B264B723059a05fBf13E32783F88db33A24365",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shidoshi.png",
+    "priceInfo": {
+      "poolAddress": "0x258b4bd56428c97ecac4903c1cba6303254d1c48",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://shidodutch.com/shidoshi/",
+    "telegram": "https://t.me/ShidoshiVerify",
+    "X": "https://x.com/Shidoshi_shi20",
+    "verified": true,
+    "lockUrl": "https://gempad.app/locks/liquidity?id=60&network=Shido",
+    "lockTimer": "2026-01-01T00:00:00Z"
+  }
+]
