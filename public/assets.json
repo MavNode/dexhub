@@ -216,5 +216,27 @@
     "verified": true,
     "lockUrl": "https://gempad.app/locks/liquidity?id=60&network=Shido",
     "lockTimer": "2026-01-01T00:00:00Z"
+  },
+  {
+    "name": "BananaChicken...Potter",
+    "symbol": "BANANA",
+    "supply": "69420000000000",
+    "address": "0x65Fc3f38bc5B74Ae2Da61df3dE803eC77d7DE7b8",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/banana.png",
+    "priceInfo": {
+      "poolAddress": "0x75cec07fc0a5f711574df1f47ce25e82133bc74e",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/dexhubchat",
+    "X": "https://x.com/",
+    "verified": true,
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
   }
 ]
