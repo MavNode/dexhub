@@ -54,12 +54,19 @@
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
     "priceInfo": {
-      "usdPrice": 1
+      "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
     },
     "website": "https://www.usdc.com/",
     "X": "https://twitter.com/circle",
-    "telegram": "https://dexhub.mavnode.io",
-    "verified": true
+    "telegram": "https://t.me/dexhubchat",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/shido-bridged-usdc-shido"
   },
   {
     "name": "Shido Ninja",
