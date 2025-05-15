@@ -289,5 +289,71 @@
     "verified": true,
     "lockUrl": "https://gempad.app/locks/liquidity?id=64&network=Shido",
     "lockTimer": "2028-12-31T08:00:00Z"
+  },
+  {
+    "name": "WeAreAllShido",
+    "symbol": "WAAS",
+    "supply": "1000000",
+    "address": "0x85e345191708dd24Bde64318a6F7fFDD954d008E",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/waas.png",
+    "priceInfo": {
+      "poolAddress": "0xf80fc87fcb6e460fc27503e6c9798d962e6690f0",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/dexhubchat",
+    "X": "https://x.com/",
+    "verified": true,
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "DiamondShidoDodoDisco",
+    "symbol": "DSDD",
+    "supply": "69420000",
+    "address": "0x7b4768CAb083D166dA3eb6E91Af4a614F32C5381",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dsdd.png",
+    "priceInfo": {
+      "poolAddress": "0xc418c4083c1beb975493a1417e53bee08acae5b5",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/dexhubchat",
+    "X": "https://x.com/",
+    "verified": true,
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "ShidoSlothSonicSundae",
+    "symbol": "SSSS",
+    "supply": "69420000",
+    "address": "0x18DDb1aF257BaAC0b449536E73dfEe904dc71f8f",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ssss.png",
+    "priceInfo": {
+      "poolAddress": "0x75b4fe195685adf20ef11245d23ee34ff5aef92a",
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/dexhubchat",
+    "X": "https://x.com/",
+    "verified": true,
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
   }
 ]
