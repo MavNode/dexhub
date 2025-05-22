@@ -44,8 +44,10 @@ We welcome contributions to improve DEXHub! Adding your token to the platform is
      "address": "0x...",
      "decimals": 18,
      "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/your-token-logo.png",
+     "stakingContract": "0x...",
      "priceInfo": {
        "poolAddress": "0x...",
+       "feeTier": 10000,
        "baseToken": {
          "symbol": "WSHIDO",
          "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -80,29 +82,31 @@ We welcome contributions to improve DEXHub! Adding your token to the platform is
 
 ```json
 {
-  "name": "Kensei",
-  "symbol": "KENSEI",
-  "supply": "50000000000",
-  "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
-  "decimals": 18,
-  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
-  "priceInfo": {
-    "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
-    "baseToken": {
-      "symbol": "WSHIDO",
-      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-      "decimals": 18
-    }
-  },
-  "website": "https://kenseishido.com",
-  "X": "https://x.com/kenseishido",
-  "telegram": "https://t.me/kenseishido",
-  "verified": true,
-  "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
-  "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
-  "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
-  "lockTimer": "2025-06-05T08:00:00Z"
-}
+    "name": "Kensei",
+    "symbol": "KENSEI",
+    "supply": "50000000000",
+    "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
+    "stakingContract": "0x5678F993b23d25F9d184E6B58D29Eb9E9D7A96A6",
+    "priceInfo": {
+      "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://kenseishido.xyz",
+    "X": "https://x.com/kenseishido",
+    "telegram": "https://t.me/kenseishido",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
+    "lockTimer": "2025-06-05T08:00:00Z"
+  }
 ```
 
 ## 🙋‍♂️ Support
