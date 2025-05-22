@@ -8,6 +8,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
     "priceInfo": {
       "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
+      "feeTier": 3000,
       "baseToken": {
         "symbol": "USDC",
         "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
@@ -32,6 +33,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
     "priceInfo": {
       "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -54,12 +56,7 @@
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
     "priceInfo": {
-      "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
+        "usdPrice": 1
     },
     "website": "https://www.usdc.com/",
     "X": "https://twitter.com/circle",
@@ -77,6 +74,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ninja.png",
     "priceInfo": {
       "poolAddress": "0x7ad1bbee1e2486c0af8377c6de00daa8210c75d8",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -99,6 +97,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/salt.png",
     "priceInfo": {
       "poolAddress": "0xfac4551574954b503adf7f352c10f5ffa39e6449",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -121,6 +120,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kiddo.png",
     "priceInfo": {
       "poolAddress": "0x76f2562b8826b14e0f0362724ec3887fbc62fb74",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -143,6 +143,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chick.png",
     "priceInfo": {
       "poolAddress": "0x600c9561b00e3bc569211dbb47ac134fd46d6746",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -165,6 +166,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/0xdead.png",
     "priceInfo": {
       "poolAddress": "0x2ace39961c52d513ae0893891cf22efb2173d78b",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -187,6 +189,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shdx.png",
     "priceInfo": {
       "poolAddress": "0x0cd72bfeed75ea4e1a7c5928aa9d9ba40312a876",
+      "feeTier": 3000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -211,6 +214,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shidoshi.png",
     "priceInfo": {
       "poolAddress": "0x258b4bd56428c97ecac4903c1cba6303254d1c48",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -233,6 +237,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/banana.png",
     "priceInfo": {
       "poolAddress": "0x75cec07fc0a5f711574df1f47ce25e82133bc74e",
+      "feeTier": 3000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -255,6 +260,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dexhub.png",
     "priceInfo": {
       "poolAddress": "0x000000000000000000000000000000000000dead",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -277,6 +283,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shinobi.png",
     "priceInfo": {
       "poolAddress": "0x4aed39bda730a74874a576b7c0d68e2c641cf912",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -299,6 +306,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/waas.png",
     "priceInfo": {
       "poolAddress": "0xf80fc87fcb6e460fc27503e6c9798d962e6690f0",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -321,6 +329,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dsdd.png",
     "priceInfo": {
       "poolAddress": "0xc418c4083c1beb975493a1417e53bee08acae5b5",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -343,6 +352,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ssss.png",
     "priceInfo": {
       "poolAddress": "0x75b4fe195685adf20ef11245d23ee34ff5aef92a",
+      "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
