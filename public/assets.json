@@ -6,6 +6,7 @@
     "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
       "feeTier": 3000,
@@ -31,6 +32,7 @@
     "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
+    "stakingContract": "0x5678F993b23d25F9d184E6B58D29Eb9E9D7A96A6",
     "priceInfo": {
       "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
       "feeTier": 10000,
@@ -55,6 +57,7 @@
     "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
+    "stakingContract": "",
     "priceInfo": {
         "usdPrice": 1
     },
@@ -72,6 +75,7 @@
     "address": "0x5ac082f693160eb2136d81aa9e772101109c11c4",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ninja.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x7ad1bbee1e2486c0af8377c6de00daa8210c75d8",
       "feeTier": 10000,
@@ -95,6 +99,7 @@
     "address": "0x27027Eb11c456d690DEA785905C1915D6b444bCe",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/salt.png",
+    "stakingContract": "0x59EA5a7085dC36336761Fa7Deefe872B1b56febb",
     "priceInfo": {
       "poolAddress": "0xfac4551574954b503adf7f352c10f5ffa39e6449",
       "feeTier": 10000,
@@ -118,6 +123,7 @@
     "address": "0x2835Ad9a421C14E1C571a5Bb492B86b7E8f5873A",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kiddo.png",
+    "stakingContract": "0x1535A275c26Fa8157094683a049A3F8bF40609B3",
     "priceInfo": {
       "poolAddress": "0x76f2562b8826b14e0f0362724ec3887fbc62fb74",
       "feeTier": 10000,
@@ -141,6 +147,7 @@
     "address": "0x37385e458bb1b19c614C238E5109E59ac605DF7a",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chick.png",
+    "stakingContract": "0x9987b0d3FA30ed0C5251b13F1CF96ef2B296c459",
     "priceInfo": {
       "poolAddress": "0x600c9561b00e3bc569211dbb47ac134fd46d6746",
       "feeTier": 10000,
@@ -164,6 +171,7 @@
     "address": "0x796F48d17d38E5f0A7aFe7966448828bdc13e8B1",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/0xdead.png",
+    "stakingContract": "0x3dD049397E0E010f89B4116b6625D7bc90613bBD",
     "priceInfo": {
       "poolAddress": "0x2ace39961c52d513ae0893891cf22efb2173d78b",
       "feeTier": 10000,
@@ -187,6 +195,7 @@
     "address": "0xe550Bde2F0898552B38a41635d7a8DDB1Fd81276",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shdx.png",
+    "stakingContract": "0xC4802A4F8B590c0D15D48c76c1E2A7289876E4B2",
     "priceInfo": {
       "poolAddress": "0x0cd72bfeed75ea4e1a7c5928aa9d9ba40312a876",
       "feeTier": 3000,
@@ -212,6 +221,7 @@
     "address": "0xF7B264B723059a05fBf13E32783F88db33A24365",
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shidoshi.png",
+    "stakingContract": "0xE8268B6685Ea58a100BA920a31DbC9488A0cf254",
     "priceInfo": {
       "poolAddress": "0x258b4bd56428c97ecac4903c1cba6303254d1c48",
       "feeTier": 10000,
@@ -235,6 +245,7 @@
     "address": "0x65Fc3f38bc5B74Ae2Da61df3dE803eC77d7DE7b8",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/banana.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x75cec07fc0a5f711574df1f47ce25e82133bc74e",
       "feeTier": 3000,
@@ -258,6 +269,7 @@
     "address": "0x000000000000000000000000000000000000dead",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dexhub.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x000000000000000000000000000000000000dead",
       "feeTier": 10000,
@@ -281,6 +293,7 @@
     "address": "0xf09aF67f24b49d5078C9f1F243C55F88af11D746",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shinobi.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x4aed39bda730a74874a576b7c0d68e2c641cf912",
       "feeTier": 10000,
@@ -304,6 +317,7 @@
     "address": "0x85e345191708dd24Bde64318a6F7fFDD954d008E",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/waas.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0xf80fc87fcb6e460fc27503e6c9798d962e6690f0",
       "feeTier": 10000,
@@ -327,6 +341,7 @@
     "address": "0x7b4768CAb083D166dA3eb6E91Af4a614F32C5381",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dsdd.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0xc418c4083c1beb975493a1417e53bee08acae5b5",
       "feeTier": 10000,
@@ -350,6 +365,7 @@
     "address": "0x18DDb1aF257BaAC0b449536E73dfEe904dc71f8f",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ssss.png",
+    "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x75b4fe195685adf20ef11245d23ee34ff5aef92a",
       "feeTier": 10000,
