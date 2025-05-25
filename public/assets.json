@@ -266,7 +266,7 @@
     "name": "DEXHub",
     "symbol": "DEXH",
     "supply": "100000000",
-    "address": "0x000000000000000000000000000000000000dead",
+    "address": "0x5696BABb091E2C8Ada44634Ed17215ffa9AAa7A9",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dexhub.png",
     "stakingContract": "",
