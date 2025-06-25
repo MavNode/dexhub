@@ -52,8 +52,8 @@
     "lockTimer": "2025-06-05T08:00:00Z"
   },
   {
-    "name": "USDC",
-    "symbol": "USDC",
+    "name": "usdc",
+    "symbol": "usdc",
     "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
@@ -61,12 +61,12 @@
     "priceInfo": {
         "usdPrice": 1
     },
-    "website": "https://www.usdc.com/",
-    "X": "https://twitter.com/circle",
-    "telegram": "https://t.me/dexhubchat",
+    "website": "https://noble.xyz/",
+    "X": "https://x.com/noble_xyz",
+    "telegram": "https://t.me/ShidoGlobal",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/shido-bridged-usdc-shido"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc"
   },
   {
     "name": "Shido Ninja",
@@ -381,5 +381,39 @@
     "verified": true,
     "lockUrl": "",
     "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
+    "stakingContract": "",
+    "priceInfo": {
+        "usdPrice": 1
+    },
+    "website": "https://usdc.com/",
+    "X": "https://twitter.com/USDC",
+    "telegram": "https://t.me/ShidoGlobal",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc"
+  },
+  {
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "address": "",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdt.png",
+    "stakingContract": "",
+    "priceInfo": {
+        "usdPrice": 1
+    },
+    "website": "https://tether.to/",
+    "X": "https://x.com/Tether_to",
+    "telegram": "https://t.me/ShidoGlobal",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/tether/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/tether"
   }
 ]
