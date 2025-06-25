@@ -292,7 +292,7 @@
     "supply": "1000000000",
     "address": "0xf09aF67f24b49d5078C9f1F243C55F88af11D746",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shinobi.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x4aed39bda730a74874a576b7c0d68e2c641cf912",
@@ -303,12 +303,12 @@
         "decimals": 18
       }
     },
-    "website": "https://sh1nobi.com/",
-    "telegram": "https://t.me/SHINOBIPORTAL",
-    "X": "https://x.com/SIBONIHS",
-    "verified": true,
-    "lockUrl": "https://gempad.app/locks/liquidity?id=64&network=Shido",
-    "lockTimer": "2028-12-31T08:00:00Z"
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/",
+    "X": "https://x.com/",
+    "verified": false,
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
   },
   {
     "name": "WeAreAllShido",
