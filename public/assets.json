@@ -52,7 +52,7 @@
     "lockTimer": "2025-06-05T08:00:00Z"
   },
   {
-    "name": "usdc",
+    "name": "usdcNOBLE",
     "symbol": "usdc",
     "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
     "decimals": 6,
