@@ -1,0 +1,160 @@
+[
+  {
+    "name": "WSHIDO",
+    "symbol": "WSHIDO",
+    "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
+    "priceInfo": {
+      "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "USDC",
+        "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+        "decimals": 6
+      }
+    },
+    "featured": true,
+    "new": false,
+    "category": "Native Token",
+    "verified": true,
+    "supply": "18000000000",
+    "website": "https://shido.io",
+    "X": "https://twitter.com/ShidoGlobal",
+    "telegram": "https://t.me/ShidoGlobal",
+    "cmcUrl": "https://coinmarketcap.com/currencies/wrapped-shido/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/wrapped-shido",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "Shido Dex",
+    "symbol": "SHDX",
+    "address": "0xe550Bde2F0898552B38a41635d7a8DDB1Fd81276",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shdx.png",
+    "priceInfo": {
+      "poolAddress": "0x0cd72bfeed75ea4e1a7c5928aa9d9ba40312a876",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "featured": true,
+    "new": false,
+    "category": "Native Dex Token",
+    "verified": true,
+    "supply": "10000000000",
+    "stakingContract": "0xC4802A4F8B590c0D15D48c76c1E2A7289876E4B2",
+    "website": "https://app.shido.io",
+    "telegram": "https://t.me/ShidoGlobal",
+    "X": "https://x.com/ShidoGlobal",
+    "cmcUrl": "https://coinmarketcap.com/currencies/shido-dex/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/shido-dex",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "Kensei",
+    "symbol": "KENSEI",
+    "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
+    "priceInfo": {
+      "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "featured": true,
+    "new": false,
+    "category": "Meme",
+    "verified": true,
+    "supply": "50000000000",
+    "stakingContract": "0x5678F993b23d25F9d184E6B58D29Eb9E9D7A96A6",
+    "website": "https://kenseishido.xyz",
+    "X": "https://x.com/kenseishido",
+    "telegram": "https://t.me/kenseishido",
+    "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
+    "lockTimer": "2025-06-05T08:00:00Z"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
+    "priceInfo": {
+      "usdPrice": 1
+    },
+    "featured": true,
+    "new": false,
+    "category": "Stablecoin",
+    "verified": true,
+    "supply": "",
+    "website": "https://usdc.com/",
+    "X": "https://twitter.com/USDC",
+    "telegram": "https://t.me/ShidoGlobal",
+    "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "address": "",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdt.png",
+    "priceInfo": {
+      "usdPrice": 1
+    },
+    "featured": true,
+    "new": false,
+    "category": "Stablecoin",
+    "verified": true,
+    "supply": "",
+    "website": "https://tether.to/",
+    "X": "https://x.com/Tether_to",
+    "telegram": "https://t.me/ShidoGlobal",
+    "cmcUrl": "https://coinmarketcap.com/currencies/tether/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/tether",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  },
+  {
+    "name": "DEXHub",
+    "symbol": "DEXH",
+    "address": "0x5696BABb091E2C8Ada44634Ed17215ffa9AAa7A9",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dexhub.png",
+    "priceInfo": {
+      "poolAddress": "0x000000000000000000000000000000000000dead",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "featured": true,
+    "new": false,
+    "category": "Utility",
+    "verified": true,
+    "supply": "100000000",
+    "website": "https://dexhub.mavnode.io",
+    "telegram": "https://t.me/dexhubchat",
+    "X": "https://x.com/",
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z"
+  }
+]
