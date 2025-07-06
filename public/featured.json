@@ -88,7 +88,7 @@
   {
     "name": "USDC",
     "symbol": "USDC",
-    "address": "",
+    "address": "0xeE1Fc22381e6B6bb5ee3bf6B5ec58DF6F5480dF8",
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
     "priceInfo": {
@@ -104,56 +104,6 @@
     "telegram": "https://t.me/ShidoGlobal",
     "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc",
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "Tether USDT",
-    "symbol": "USDT",
-    "address": "",
-    "decimals": 6,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdt.png",
-    "priceInfo": {
-      "usdPrice": 1
-    },
-    "featured": true,
-    "new": false,
-    "category": "Stablecoin",
-    "verified": true,
-    "supply": "",
-    "website": "https://tether.to/",
-    "X": "https://x.com/Tether_to",
-    "telegram": "https://t.me/ShidoGlobal",
-    "cmcUrl": "https://coinmarketcap.com/currencies/tether/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/tether",
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "DEXHub",
-    "symbol": "DEXH",
-    "address": "0x5696BABb091E2C8Ada44634Ed17215ffa9AAa7A9",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dexhub.png",
-    "priceInfo": {
-      "poolAddress": "0x000000000000000000000000000000000000dead",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "featured": true,
-    "new": false,
-    "category": "Upcoming",
-    "verified": true,
-    "supply": "100000000",
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/dexhubchat",
-    "X": "https://x.com/",
-    "cmcUrl": "",
-    "coingeckoUrl": "",
     "lockUrl": "",
     "lockTimer": "1970-01-01T00:00:00Z"
   }
