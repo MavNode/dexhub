@@ -415,9 +415,8 @@
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/tether/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/tether"
-  }
-]
-{
+  },
+  {
   "name": "Moonshot",
   "symbol": "MOON",
   "supply": "6900000000",
@@ -438,8 +437,9 @@
   "X": "",
   "telegram": "https://t.me/moonshotshido",
   "verified": true,
-  "cmcUrl": "https://dex.coinmarketcap.com/token/shido%20network/0x7b616cb032cac2572bcec4ecae68554609e75e1e/",
+  "cmcUrl": "",
   "coingeckoUrl": "",
-  "lockUrl": "https://gempad.app/locks/project?token=0x7B616Cb032CaC2572bceC4ECAE68554609e75e1e&network=Shidoid=...",
-  "lockTimer": "2025-06-05T08:00:00Z"
+  "lockUrl": "",
+  "lockTimer": "1970-01-01T08:00:00Z"
 }
+]
