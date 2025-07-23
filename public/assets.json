@@ -415,5 +415,31 @@
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/tether/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/tether"
-  }
+  },
+  {
+  "name": "Moonshot",
+  "symbol": "MOON",
+  "supply": "6900000000",
+  "address": "0x7B616Cb032CaC2572bceC4ECAE68554609e75e1e",
+  "decimals": 18,
+  "logo": "",
+  "stakingContract": "",
+  "priceInfo": {
+    "poolAddress": "0x6016c8d74756c24db1d36aec5b4ea41582d01fb1",
+    "feeTier": 10000,
+    "baseToken": {
+      "symbol": "WSHIDO",
+      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+      "decimals": 18
+    }
+  },
+  "website": "",
+  "X": "",
+  "telegram": "https://t.me/moonshotshido",
+  "verified": true,
+  "cmcUrl": "",
+  "coingeckoUrl": "",
+  "lockUrl": "",
+  "lockTimer": "1970-01-01T08:00:00Z"
+}
 ]
