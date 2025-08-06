@@ -287,30 +287,6 @@
     "lockTimer": "1970-01-01T00:00:00Z"
   },
   {
-    "name": "Shinobi",
-    "symbol": "SHO",
-    "supply": "1000000000",
-    "address": "0xf09aF67f24b49d5078C9f1F243C55F88af11D746",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0x4aed39bda730a74874a576b7c0d68e2c641cf912",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/",
-    "X": "https://x.com/",
-    "verified": false,
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
     "name": "WeAreAllShido",
     "symbol": "WAAS",
     "supply": "1000000",
@@ -417,15 +393,15 @@
     "coingeckoUrl": "https://www.coingecko.com/en/coins/tether"
   },
   {
-   "name": "Moonshot",
-  "symbol": "MOON",
-  "supply": "6900000000",
-  "address": "0x7B616Cb032CaC2572bceC4ECAE68554609e75e1e",
+  "name": "Shiba Bonk Inu",
+  "symbol": "SHIBO",
+  "supply": "1000000000",
+  "address": "0x10808137849E3Ed8860Da01CAD376B03889684Ef",
   "decimals": 18,
-  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/moon.png",
-  "stakingContract": "",
+  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shibo.png",
+  "stakingContract": "0xf1D4095AA58d8C0efB66B5c98d1C9585d8e83499",
   "priceInfo": {
-    "poolAddress": "0x6016c8d74756c24db1d36aec5b4ea41582d01fb1",
+    "poolAddress": "0xa4a708b96a513113d30c4a09f410e28f10bdb147",
     "feeTier": 10000,
     "baseToken": {
       "symbol": "WSHIDO",
@@ -434,12 +410,64 @@
     }
   },
   "website": "",
-  "X": "",
-  "telegram": "https://t.me/moonshotshido",
+  "X": "https://x.com/ShibaBonkInu",
+  "telegram": "https://t.me/shibabonkinu",
   "verified": true,
   "cmcUrl": "",
   "coingeckoUrl": "",
-  "lockUrl": "https://gempad.app/locks/project?token=0x7B616Cb032CaC2572bceC4ECAE68554609e75e1e&network=Shido",
-  "lockTimer": "2025-09-23T15:00:00Z"
+  "lockUrl": "https://gempad.app/locks/liquidity?id=73&network=Shido",
+  "lockTimer": "2026-07-31T15:00:00Z"
+  },
+  {
+  "name": "MSMoon",
+  "symbol": "MSMOON",
+  "supply": "1000000000",
+  "address": "0x1f5b6F4126575835c23D1b6c38535FA215df03c5",
+  "decimals": 18,
+  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/msmoon.png",
+  "stakingContract": "",
+  "priceInfo": {
+    "poolAddress": "0x053a0d96ef36433f2ba01b7ffa0d2ec3b9effd9e",
+    "feeTier": 10000,
+    "baseToken": {
+      "symbol": "WSHIDO",
+      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+      "decimals": 18
+    }
+  },
+  "website": "",
+  "X": "https://x.com/MsmoonWshido",
+  "telegram": "https://t.me/MSMOON_COIN_Community",
+  "verified": true,
+  "cmcUrl": "",
+  "coingeckoUrl": "",
+  "lockUrl": "https://gempad.app/locks/liquidity?id=72&network=Shido",
+  "lockTimer": "2026-07-31T15:00:00Z"
+  },
+  {
+  "name": "Shido Monkey",
+  "symbol": "MONKEY",
+  "supply": "1000000000",
+  "address": "0x525d1e8Df8889A2E8d40bE24d8A21d18Ec161f7F",
+  "decimals": 18,
+  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/monkey.png",
+  "stakingContract": "",
+  "priceInfo": {
+    "poolAddress": "0xc57e71f33c2ce6fdcc6535f2d62e045053c10c91",
+    "feeTier": 10000,
+    "baseToken": {
+      "symbol": "WSHIDO",
+      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+      "decimals": 18
+    }
+  },
+  "website": "",
+  "X": "https://x.com/shidomonkey",
+  "telegram": "https://t.me/shidomonkey",
+  "verified": true,
+  "cmcUrl": "",
+  "coingeckoUrl": "",
+  "lockUrl": "https://gempad.app/locks/liquidity?id=81&network=Shido",
+  "lockTimer": "2026-08-06T15:00:00Z"
   }
 ]
