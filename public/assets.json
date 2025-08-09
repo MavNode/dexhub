@@ -425,7 +425,7 @@
   "address": "0x1f5b6F4126575835c23D1b6c38535FA215df03c5",
   "decimals": 18,
   "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/msmoon.png",
-  "stakingContract": "",
+  "stakingContract": "0x3274fc6746FaD673645f8a1141135280809f3c47",
   "priceInfo": {
     "poolAddress": "0x053a0d96ef36433f2ba01b7ffa0d2ec3b9effd9e",
     "feeTier": 10000,
@@ -469,5 +469,31 @@
   "coingeckoUrl": "",
   "lockUrl": "https://gempad.app/locks/liquidity?id=81&network=Shido",
   "lockTimer": "2026-08-06T15:00:00Z"
+  },
+  {
+  "name": "Ippon",
+  "symbol": "IPN",
+  "supply": "100000000",
+  "address": "0x1B22b06eF38140064004cA050b3A67348B94A220",
+  "decimals": 18,
+  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ippon.png",
+  "stakingContract": "",
+  "priceInfo": {
+    "poolAddress": "0x2dcb26ff2954c8797864b91dba3c4b8f9d294b21",
+    "feeTier": 10000,
+    "baseToken": {
+      "symbol": "WSHIDO",
+      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+      "decimals": 18
+    }
+  },
+  "website": "",
+  "X": "https://x.com/",
+  "telegram": "https://t.me/",
+  "verified": true,
+  "cmcUrl": "",
+  "coingeckoUrl": "",
+  "lockUrl": "",
+  "lockTimer": "1970-08-06T15:00:00Z"
   }
 ]
