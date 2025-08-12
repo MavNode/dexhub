@@ -495,5 +495,31 @@
   "coingeckoUrl": "",
   "lockUrl": "",
   "lockTimer": "1970-08-06T15:00:00Z"
+  },
+  {
+  "name": "Boobies",
+  "symbol": "BOOBIES",
+  "supply": "69000000",
+  "address": "0x598cC037889bdE8bC77672AF9a1bA0fe6CCa255C",
+  "decimals": 18,
+  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/boobies.png",
+  "stakingContract": "",
+  "priceInfo": {
+    "poolAddress": "0x00bb70ea350dc26df93ea8beda9a5d3e4768ce89",
+    "feeTier": 10000,
+    "baseToken": {
+      "symbol": "WSHIDO",
+      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+      "decimals": 18
+    }
+  },
+  "website": "",
+  "X": "https://x.com/",
+  "telegram": "https://t.me/ShidoBoobies",
+  "verified": true,
+  "cmcUrl": "",
+  "coingeckoUrl": "",
+  "lockUrl": "",
+  "lockTimer": "1970-08-06T15:00:00Z"
   }
 ]
