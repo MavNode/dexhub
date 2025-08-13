@@ -56,7 +56,7 @@
     "symbol": "usdc",
     "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
     "decimals": 6,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdcNOBLE.png",
     "stakingContract": "",
     "priceInfo": {
         "usdPrice": 1
