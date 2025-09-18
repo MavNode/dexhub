@@ -521,5 +521,29 @@
   "coingeckoUrl": "",
   "lockUrl": "",
   "lockTimer": "1970-08-06T15:00:00Z"
+  },
+  {
+    "name": "NERD",
+    "symbol": "NERD",
+    "supply": "3141592653",
+    "address": "0x4b0cBcad61c5584EdE3ca9fd45eF1feBB2215311",
+    "decimals": 18,
+    "logo": "https://github.com/funkaclau/dexhub/blob/main/images/nerd.png?raw=true",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x0fb5fa84d8ee3d94d08ec428da98e10977a0aff3",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://nerds.rocks",
+    "telegram": "https://t.me/shidoNERD",
+    "X": "https://x.com/shidoNERD",
+    "verified": true,
+    "lockTimer": "2025-10-14:03:00Z",
+    "lockUrl": "https://gempad.app/locks/liquidity?id=85&network=Shido"
   }
 ]
