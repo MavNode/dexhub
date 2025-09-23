@@ -114,7 +114,7 @@
     "telegram": "https://t.me/SaltOnShido",
     "verified": true,
     "lockUrl": "https://gempad.app/locks/liquidity?id=2&network=Shido",
-    "lockTimer": "2025-10-18T06:03:00Z"
+    "lockTimer": "2026-01-01T19:00:00Z"
   },
   {
     "name": "Shidokid",
@@ -545,5 +545,29 @@
     "verified": true,
     "lockTimer": "2025-10-18T15:00:00Z",
     "lockUrl": "https://gempad.app/locks/liquidity?id=85&network=Shido"
+  },
+  {
+    "name": "Prem. Coffee",
+    "symbol": "PCOFFEE",
+    "supply": "1000000000",
+    "address": "0x5287b6b6232305aed784cd0454bb20926f691b5a",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/premcoffee.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x2778ae652c46e4a9b6f797fce77f6e38ba2f2218",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "https://t.me/+F1XWE-6IFd5iNWQ8",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
   }
 ]
