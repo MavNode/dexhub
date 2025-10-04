@@ -529,7 +529,7 @@
     "address": "0x4b0cBcad61c5584EdE3ca9fd45eF1feBB2215311",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/nerd.png",
-    "stakingContract": "",
+    "stakingContract": "0x081A03Ddd7A1a82786483EA91C73502EFA0b6760",
     "priceInfo": {
       "poolAddress": "0x0fb5fa84d8ee3d94d08ec428da98e10977a0aff3",
       "feeTier": 10000,
