@@ -576,11 +576,35 @@
     "supply": "10000",
     "address": "0xc95e6e74f40ca62218dc09b9d21ad6dea9255616",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shibaster.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shi-aster.png",
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x406fcb19a0f44a77c007b378e83162f016b00303",
       "feeTier": 500,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "Shido Bitcoin",
+    "symbol": "SHIBSC",
+    "supply": "18000000",
+    "address": "0x15d4c95685572c96a94eebb502783f55bab808cd",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x0c3c8762bf54ae017539df8448458b0660c24044",
+      "feeTier": 1000,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
