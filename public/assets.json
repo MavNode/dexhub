@@ -569,5 +569,29 @@
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
+  },
+  {
+    "name": "Shi-Aster",
+    "symbol": "sASTER",
+    "supply": "10000",
+    "address": "0xc95e6e74f40ca62218dc09b9d21ad6dea9255616",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shibaster.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x406fcb19a0f44a77c007b378e83162f016b00303",
+      "feeTier": 500,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
   }
 ]
