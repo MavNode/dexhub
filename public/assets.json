@@ -624,7 +624,7 @@
     "supply": "210000000000",
     "address": "0xc3a8815291af5a506308d5efbef337a914cdb452",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/qbn.png",
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x4f968f8fbc3d97bf15c1e140b28192329d2173ee",
@@ -648,7 +648,7 @@
     "supply": "100000",
     "address": "0xfad12e07590f06d4135c9a4fe018e44d50b83292",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/bushido.png",
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x89a2b65b168677aea07cc7146e6d0b2c911927a0",
