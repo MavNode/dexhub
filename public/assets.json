@@ -604,7 +604,55 @@
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x0c3c8762bf54ae017539df8448458b0660c24044",
-      "feeTier": 1000,
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "Qubiton",
+    "symbol": "QBN",
+    "supply": "210000000000",
+    "address": "0xc3a8815291af5a506308d5efbef337a914cdb452",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x4f968f8fbc3d97bf15c1e140b28192329d2173ee",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "Bushido",
+    "symbol": "BUSHIDO",
+    "supply": "100000",
+    "address": "0xfad12e07590f06d4135c9a4fe018e44d50b83292",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x89a2b65b168677aea07cc7146e6d0b2c911927a0",
+      "feeTier": 500,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
