@@ -665,5 +665,53 @@
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
+  },
+  {
+    "name": "Skibidi Toilet",
+    "symbol": "SKIBIDI",
+    "supply": "100000",
+    "address": "0xb4016663dCF05438B61Bf21e8c82785e77601f53",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/skibidi.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x3739eEEc1a6C65Ee354B1540113F108C1B91f5F2",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "https://x.com/skibidi_shi20",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "Chill Cat",
+    "symbol": "CHILL",
+    "supply": "1000000000",
+    "address": "0x37081847db8eA6bD103E686CBe7ab150D829FF76",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chill.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x2cc8F2E3aD69b3D9F19f071EddF4d9bB278acee0",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
   }
 ]
