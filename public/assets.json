@@ -675,7 +675,7 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/skibidi.png",
     "stakingContract": "",
     "priceInfo": {
-      "poolAddress": "0x3739eEEc1a6C65Ee354B1540113F108C1B91f5F2",
+      "poolAddress": "0x3739eeec1a6c65ee354b1540113f108c1b91f5f2",
       "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
@@ -699,7 +699,31 @@
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chill.png",
     "stakingContract": "",
     "priceInfo": {
-      "poolAddress": "0x2cc8F2E3aD69b3D9F19f071EddF4d9bB278acee0",
+      "poolAddress": "0x2cc8f2e3ad69b3d9f19f071eddf4d9bb278acee0",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "我学中文是为了下一次牛市",
+    "symbol": "ILCFNBR",
+    "supply": "1000000",
+    "address": "0xa907bE8aEFF41D593dC33A29C0CBAbEbD8beC03B",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ilcfnbr.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xf5c547c7821ee9b836e2a5a6d08ce74b15f94d47",
       "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
