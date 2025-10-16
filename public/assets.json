@@ -737,5 +737,29 @@
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
+  },
+  {
+    "name": "HodlJeet",
+    "symbol": "HODLJEET",
+    "supply": "1000000",
+    "address": "0xe5420222bd4464B214551A0D81389C9a6C8aa42a",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/hodljeet.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xfe0043be9b3f16a54416635cc8f6bf9a2696a0a4",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "telegram": "",
+    "X": "",
+    "verified": true,
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
   }
 ]
