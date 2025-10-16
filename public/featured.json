@@ -6,11 +6,11 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
     "priceInfo": {
-      "poolAddress": "0x7b65b7cf3c8b20a2c6f034d329b70daf84258e50",
+      "poolAddress": "0x7cf3600309337c77453123fb2e695c508c61ed12",
       "feeTier": 3000,
       "baseToken": {
         "symbol": "USDC",
-        "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+        "address": "0xeE1Fc22381e6B6bb5ee3bf6B5ec58DF6F5480dF8",
         "decimals": 6
       }
     },
