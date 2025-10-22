@@ -52,6 +52,32 @@
     "lockTimer": "2025-06-05T08:00:00Z"
   },
   {
+    "name": "Rakun",
+    "symbol": "RAKUN",
+    "supply": "21000000",
+    "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/rakun.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xf4206e9a6ee82b75e0ae201fff24b730c12bc513",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "KENSEI",
+        "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+        "decimals": 18
+      }
+    },
+    "website": "https://kenseishido.xyz",
+    "X": "https://x.com/kenseishido",
+    "telegram": "https://t.me/kenseishido",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
+    "lockTimer": "2025-06-05T08:00:00Z"
+  },
+  {
     "name": "usdcNOBLE",
     "symbol": "usdc",
     "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
