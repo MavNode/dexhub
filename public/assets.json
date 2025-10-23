@@ -58,7 +58,7 @@
     "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/rakun.png",
-    "stakingContract": "",
+    "stakingContract": "0x4499110A6174735FB2103eD47BBFD4f280924972",
     "priceInfo": {
       "poolAddress": "0xf4206e9a6ee82b75e0ae201fff24b730c12bc513",
       "feeTier": 10000,
