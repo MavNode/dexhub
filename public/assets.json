@@ -173,7 +173,7 @@
     "address": "0x37385e458bb1b19c614C238E5109E59ac605DF7a",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chick.png",
-    "stakingContract": "0x9987b0d3FA30ed0C5251b13F1CF96ef2B296c459",
+    "stakingContract": "0xB85e0a135c133804f70b40eE7A6C3a25F754919D",
     "priceInfo": {
       "poolAddress": "0x600c9561b00e3bc569211dbb47ac134fd46d6746",
       "feeTier": 10000,
@@ -651,7 +651,7 @@
     "address": "0xc3a8815291af5a506308d5efbef337a914cdb452",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/qbn.png",
-    "stakingContract": "",
+    "stakingContract": "0x573a0eECa92Ba68b484f3f4762D776F1BEd2A8ba",
     "priceInfo": {
       "poolAddress": "0x4f968f8fbc3d97bf15c1e140b28192329d2173ee",
       "feeTier": 3000,
@@ -723,7 +723,7 @@
     "address": "0x37081847db8eA6bD103E686CBe7ab150D829FF76",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/chill.png",
-    "stakingContract": "",
+    "stakingContract": "0x3C6571BF9d9Eab921a8BF4E28DC175FA8D917E1d",
     "priceInfo": {
       "poolAddress": "0x2cc8f2e3ad69b3d9f19f071eddf4d9bb278acee0",
       "feeTier": 10000,
@@ -747,7 +747,7 @@
     "address": "0xa907bE8aEFF41D593dC33A29C0CBAbEbD8beC03B",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ilcfnbr.png",
-    "stakingContract": "",
+    "stakingContract": "0x24DCf77fb076758a6A7D4A30204E1D74D711f31e",
     "priceInfo": {
       "poolAddress": "0xf5c547c7821ee9b836e2a5a6d08ce74b15f94d47",
       "feeTier": 10000,
@@ -771,7 +771,7 @@
     "address": "0xe5420222bd4464B214551A0D81389C9a6C8aa42a",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/hodljeet.png",
-    "stakingContract": "",
+    "stakingContract": "0x970335D7eBb5495aDf34654f1977de38a4e89D47",
     "priceInfo": {
       "poolAddress": "0xfe0043be9b3f16a54416635cc8f6bf9a2696a0a4",
       "feeTier": 10000,
@@ -787,32 +787,31 @@
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
+  },
+  {
+    "name": "GhostDojo",
+    "symbol": "BOOJO",
+    "supply": "1000000",
+    "address": "0xb5b466adccc67be5347c9c943a4ab504635a71ef",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ghostDojo.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x321dac10ecfa586e445e960a5655b22a70e233a5",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "https://x.com/ghost_dojo",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": ""
   }
 ]
-
-{
-  "name": "GhostDojo",
-  "symbol": "BOOJO",
-  "supply": "1000000",
-  "address": "0xb5b466adccc67be5347c9c943a4ab504635a71ef",
-  "decimals": 18,
-  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ghostDojo.png",
-  "stakingContract": "",
-  "priceInfo": {
-    "poolAddress": "0x321dac10ecfa586e445e960a5655b22a70e233a5",
-    "feeTier": 10000,
-    "baseToken": {
-      "symbol": "WSHIDO",
-      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-      "decimals": 18
-    }
-  },
-  "website": "",
-  "X": "https://x.com/ghost_dojo",
-  "telegram": "",
-  "verified": true,
-  "cmcUrl": "https://dex.coinmarketcap.com/token/shido%20network/0xb5b466adccc67be5347c9c943a4ab504635a71ef/",
-  "coingeckoUrl": "https://www.geckoterminal.com/shido-network/pools/0x321dac10ecfa586e445e960a5655b22a70e233a5",
-  "lockUrl": "",
-  "lockTimer": ""
-}
