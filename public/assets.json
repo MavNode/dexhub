@@ -789,3 +789,30 @@
     "lockUrl": ""
   }
 ]
+
+{
+  "name": "GhostDojo",
+  "symbol": "BOOJO",
+  "supply": "1000000",
+  "address": "0xb5b466adccc67be5347c9c943a4ab504635a71ef",
+  "decimals": 18,
+  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ghostDojo.png",
+  "stakingContract": "",
+  "priceInfo": {
+    "poolAddress": "0x321dac10ecfa586e445e960a5655b22a70e233a5",
+    "feeTier": 10000,
+    "baseToken": {
+      "symbol": "WSHIDO",
+      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+      "decimals": 18
+    }
+  },
+  "website": "",
+  "X": "https://x.com/ghost_dojo",
+  "telegram": "",
+  "verified": true,
+  "cmcUrl": "https://dex.coinmarketcap.com/token/shido%20network/0xb5b466adccc67be5347c9c943a4ab504635a71ef/",
+  "coingeckoUrl": "https://www.geckoterminal.com/shido-network/pools/0x321dac10ecfa586e445e960a5655b22a70e233a5",
+  "lockUrl": "",
+  "lockTimer": ""
+}
