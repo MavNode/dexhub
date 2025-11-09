@@ -813,5 +813,31 @@
     "coingeckoUrl": "",
     "lockUrl": "",
     "lockTimer": ""
+  },
+  {
+    "name": "Manga Coin",
+    "symbol": "MANGA",
+    "supply": "69000000000",
+    "address": "0x2987D36a348F5D9b94B1A21B956D7E936Bd5Ba13",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/mangacoin.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xc4de8f6f37dce1877d299850e60790c91e7d03b8",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "https://t.me/+01pjZHFK5ec3NDhk",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": ""
   }
 ]
