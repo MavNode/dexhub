@@ -807,7 +807,7 @@
     },
     "website": "",
     "X": "https://x.com/ghost_dojo",
-    "telegram": "",
+    "telegram": "https://t.me/+VlABRXpLnyBjNTlk",
     "verified": true,
     "cmcUrl": "",
     "coingeckoUrl": "",
@@ -839,5 +839,30 @@
     "coingeckoUrl": "",
     "lockUrl": "",
     "lockTimer": ""
+ },
+  {
+    "name": "BubbleButt",
+    "symbol": "BB",
+    "supply": "100000000",
+    "address": "0x1601a36D71B7cE53d947330ecd2171fE469d7C79",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/BubbleButt.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xb90b42e75d5d355fd297b81d9e5282c4b53f6c56",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "https://t.me/BubbleButtOO",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": ""
   }
-]
