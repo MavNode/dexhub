@@ -265,126 +265,6 @@
     "lockTimer": "2026-01-01T00:00:00Z"
   },
   {
-    "name": "BananaChicken...Potter",
-    "symbol": "BANANA",
-    "supply": "69420000000000",
-    "address": "0x65Fc3f38bc5B74Ae2Da61df3dE803eC77d7DE7b8",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/banana.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0x75cec07fc0a5f711574df1f47ce25e82133bc74e",
-      "feeTier": 3000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/dexhubchat",
-    "X": "https://x.com/",
-    "verified": true,
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "DEXHub",
-    "symbol": "DEXH",
-    "supply": "100000000",
-    "address": "0x5696BABb091E2C8Ada44634Ed17215ffa9AAa7A9",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dexhub.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0x000000000000000000000000000000000000dead",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/dexhubchat",
-    "X": "https://x.com/",
-    "verified": true,
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "WeAreAllShido",
-    "symbol": "WAAS",
-    "supply": "1000000",
-    "address": "0x85e345191708dd24Bde64318a6F7fFDD954d008E",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/waas.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0xf80fc87fcb6e460fc27503e6c9798d962e6690f0",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/dexhubchat",
-    "X": "https://x.com/",
-    "verified": true,
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "DiamondShidoDodoDisco",
-    "symbol": "DSDD",
-    "supply": "69420000",
-    "address": "0x7b4768CAb083D166dA3eb6E91Af4a614F32C5381",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dsdd.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0xc418c4083c1beb975493a1417e53bee08acae5b5",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/dexhubchat",
-    "X": "https://x.com/",
-    "verified": true,
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "ShidoSlothSonicSundae",
-    "symbol": "SSSS",
-    "supply": "69420000",
-    "address": "0x18DDb1aF257BaAC0b449536E73dfEe904dc71f8f",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ssss.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0x75b4fe195685adf20ef11245d23ee34ff5aef92a",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "https://dexhub.mavnode.io",
-    "telegram": "https://t.me/dexhubchat",
-    "X": "https://x.com/",
-    "verified": true,
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
     "name": "USDC",
     "symbol": "USDC",
     "address": "0xeE1Fc22381e6B6bb5ee3bf6B5ec58DF6F5480dF8",
@@ -419,32 +299,6 @@
     "coingeckoUrl": "https://www.coingecko.com/en/coins/tether"
   },
   {
-  "name": "Shiba Bonk Inu",
-  "symbol": "SHIBO",
-  "supply": "1000000000",
-  "address": "0x10808137849E3Ed8860Da01CAD376B03889684Ef",
-  "decimals": 18,
-  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shibo.png",
-  "stakingContract": "0xf1D4095AA58d8C0efB66B5c98d1C9585d8e83499",
-  "priceInfo": {
-    "poolAddress": "0xa4a708b96a513113d30c4a09f410e28f10bdb147",
-    "feeTier": 10000,
-    "baseToken": {
-      "symbol": "WSHIDO",
-      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-      "decimals": 18
-    }
-  },
-  "website": "",
-  "X": "https://x.com/ShibaBonkInu",
-  "telegram": "https://t.me/shibabonkinu",
-  "verified": true,
-  "cmcUrl": "",
-  "coingeckoUrl": "",
-  "lockUrl": "https://gempad.app/locks/liquidity?id=73&network=Shido",
-  "lockTimer": "2026-07-31T15:00:00Z"
-  },
-  {
   "name": "MSMoon",
   "symbol": "MSMOON",
   "supply": "1000000000",
@@ -469,32 +323,6 @@
   "coingeckoUrl": "",
   "lockUrl": "https://gempad.app/locks/liquidity?id=72&network=Shido",
   "lockTimer": "2026-07-31T15:00:00Z"
-  },
-  {
-  "name": "Shido Monkey",
-  "symbol": "MONKEY",
-  "supply": "1000000000",
-  "address": "0x525d1e8Df8889A2E8d40bE24d8A21d18Ec161f7F",
-  "decimals": 18,
-  "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/monkey.png",
-  "stakingContract": "",
-  "priceInfo": {
-    "poolAddress": "0xc57e71f33c2ce6fdcc6535f2d62e045053c10c91",
-    "feeTier": 10000,
-    "baseToken": {
-      "symbol": "WSHIDO",
-      "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-      "decimals": 18
-    }
-  },
-  "website": "",
-  "X": "https://x.com/shidomonkey",
-  "telegram": "https://t.me/shidomonkey",
-  "verified": true,
-  "cmcUrl": "",
-  "coingeckoUrl": "",
-  "lockUrl": "https://gempad.app/locks/liquidity?id=81&network=Shido",
-  "lockTimer": "2026-08-06T15:00:00Z"
   },
   {
   "name": "Ippon",
@@ -621,30 +449,6 @@
     "lockUrl": ""
   },
   {
-    "name": "Shido Bitcoin",
-    "symbol": "SHIBSC",
-    "supply": "18000000",
-    "address": "0x15d4c95685572c96a94eebb502783f55bab808cd",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0x0c3c8762bf54ae017539df8448458b0660c24044",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "",
-    "telegram": "",
-    "X": "",
-    "verified": true,
-    "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
-  },
-  {
     "name": "Qubiton",
     "symbol": "QBN",
     "supply": "210000000000",
@@ -688,30 +492,6 @@
     "website": "",
     "telegram": "",
     "X": "",
-    "verified": true,
-    "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
-  },
-  {
-    "name": "Skibidi Toilet",
-    "symbol": "SKIBIDI",
-    "supply": "100000",
-    "address": "0xb4016663dCF05438B61Bf21e8c82785e77601f53",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/skibidi.png",
-    "stakingContract": "",
-    "priceInfo": {
-      "poolAddress": "0x3739eeec1a6c65ee354b1540113f108c1b91f5f2",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "",
-    "telegram": "",
-    "X": "https://x.com/skibidi_shi20",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
@@ -811,8 +591,9 @@
     "verified": true,
     "cmcUrl": "",
     "coingeckoUrl": "",
-    "lockUrl": "",
-    "lockTimer": ""
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+
   },
   {
     "name": "Manga Coin",
@@ -837,8 +618,8 @@
     "verified": true,
     "cmcUrl": "",
     "coingeckoUrl": "",
-    "lockUrl": "",
-    "lockTimer": ""
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
  },
  {
     "name": "BubbleButt",
@@ -863,7 +644,7 @@
     "verified": true,
     "cmcUrl": "",
     "coingeckoUrl": "",
-    "lockUrl": "",
-    "lockTimer": ""
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
   }
 ]
