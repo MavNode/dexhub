@@ -78,23 +78,6 @@
     "lockTimer": "2025-06-05T08:00:00Z"
   },
   {
-    "name": "usdcNOBLE",
-    "symbol": "usdc",
-    "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
-    "decimals": 6,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdcNOBLE.png",
-    "stakingContract": "",
-    "priceInfo": {
-        "usdPrice": 1
-    },
-    "website": "https://noble.xyz/",
-    "X": "https://x.com/noble_xyz",
-    "telegram": "https://t.me/ShidoGlobal",
-    "verified": true,
-    "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc"
-  },
-  {
     "name": "Shido Ninja",
     "symbol": "NINJA",
     "supply": "100000000000",
