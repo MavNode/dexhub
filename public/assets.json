@@ -629,5 +629,31 @@
     "coingeckoUrl": "",
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
+  },
+  {
+    "name": "Mycroft",
+    "symbol": "MYCROFT",
+    "supply": "133713371337",
+    "address": "0x65f1Ed90e4e41417B38b1f8098c4FE257353C96F",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x4cbd9219072cd21b20588c7e39755e848c552783",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "https://t.me/",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
   }
 ]
