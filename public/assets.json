@@ -588,7 +588,7 @@
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0xc4de8f6f37dce1877d299850e60790c91e7d03b8",
-      "feeTier": 10000,
+      "feeTier": 500,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
@@ -641,6 +641,58 @@
     "priceInfo": {
       "poolAddress": "0x4cbd9219072cd21b20588c7e39755e848c552783",
       "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "https://t.me/",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "GNUS",
+    "symbol": "GNUS",
+    "supply": "500000000",
+    "address": "0x9ccE1FD369E92004f2985035Ba5F319013D1Eff7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x55b751042a50c7a1e2e25d6a06a0caaef1c5534c",
+      "feeTier": 500,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "https://t.me/",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockTimer": "1970-10-18T15:00:00Z",
+    "lockUrl": ""
+  },
+  {
+    "name": "Kitsune",
+    "symbol": "KSN",
+    "supply": "500000000",
+    "address": "0x72fDEc5fc6B92EFC2451529f52C66f34150f54a7",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xd2586ca9a7d77136d6ae1a65b5c86ec763570183",
+      "feeTier": 500,
       "baseToken": {
         "symbol": "WSHIDO",
         "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
