@@ -33,6 +33,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kensei.png",
     "stakingContract": "0x5678F993b23d25F9d184E6B58D29Eb9E9D7A96A6",
+    "bubbleLockTokenId": "130",
     "priceInfo": {
       "poolAddress": "0x2f4cdf4ad2203d5bca9ccb5485727d89603e2e39",
       "feeTier": 10000,
@@ -47,9 +48,7 @@
     "telegram": "https://t.me/kenseishido",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
-    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
-    "lockTimer": "2025-06-05T08:00:00Z"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei"
   },
   {
     "name": "Rakun",
@@ -59,6 +58,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/rakun.png",
     "stakingContract": "0x4499110A6174735FB2103eD47BBFD4f280924972",
+    "bubbleLockTokenId": "628",
     "priceInfo": {
       "poolAddress": "0xf4206e9a6ee82b75e0ae201fff24b730c12bc513",
       "feeTier": 10000,
@@ -73,9 +73,7 @@
     "telegram": "https://t.me/kenseishido",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
-    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
-    "lockTimer": "2025-06-05T08:00:00Z"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei"
   },
   {
     "name": "Shido Ninja",
@@ -535,6 +533,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/hodljeet.png",
     "stakingContract": "0x970335D7eBb5495aDf34654f1977de38a4e89D47",
+    "bubbleLockTokenId": "599",
     "priceInfo": {
       "poolAddress": "0xfe0043be9b3f16a54416635cc8f6bf9a2696a0a4",
       "feeTier": 10000,
@@ -547,9 +546,7 @@
     "website": "",
     "telegram": "",
     "X": "",
-    "verified": true,
-    "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "verified": true
   },
   {
     "name": "GhostDojo",
@@ -559,6 +556,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/ghostDojo.png",
     "stakingContract": "",
+    "bubbleLockTokenId": "681",
     "priceInfo": {
       "poolAddress": "0x321dac10ecfa586e445e960a5655b22a70e233a5",
       "feeTier": 10000,
@@ -573,10 +571,7 @@
     "telegram": "https://t.me/+VlABRXpLnyBjNTlk",
     "verified": true,
     "cmcUrl": "",
-    "coingeckoUrl": "",
-    "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
-
+    "coingeckoUrl": ""
   },
   {
     "name": "Manga Coin",
@@ -612,6 +607,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/BubbleButt.png",
     "stakingContract": "",
+    "bubbleLockTokenId": "755",
     "priceInfo": {
       "poolAddress": "0xb90b42e75d5d355fd297b81d9e5282c4b53f6c56",
       "feeTier": 10000,
@@ -626,9 +622,7 @@
     "telegram": "https://t.me/BubbleButtOO",
     "verified": true,
     "cmcUrl": "",
-    "coingeckoUrl": "",
-    "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "coingeckoUrl": ""
   },
   {
     "name": "Mycroft",
