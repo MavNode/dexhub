@@ -229,6 +229,7 @@
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shidoshi.png",
     "stakingContract": "0xE8268B6685Ea58a100BA920a31DbC9488A0cf254",
+    "bubbleLockTokenId": "628",
     "priceInfo": {
       "poolAddress": "0x258b4bd56428c97ecac4903c1cba6303254d1c48",
       "feeTier": 10000,
@@ -242,8 +243,8 @@
     "telegram": "https://t.me/ShidoshiVerify",
     "X": "https://x.com/Shidoshi_shi20",
     "verified": true,
-    "lockUrl": "https://gempad.app/locks/liquidity?id=60&network=Shido",
-    "lockTimer": "2026-01-01T00:00:00Z"
+    "cmcUrl": "",
+    "coingeckoUrl": ""
   },
   {
     "name": "USDC",
@@ -682,7 +683,7 @@
     "supply": "500000000",
     "address": "0x72fDEc5fc6B92EFC2451529f52C66f34150f54a7",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/unknown.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/kitsune.png",
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0xd2586ca9a7d77136d6ae1a65b5c86ec763570183",
