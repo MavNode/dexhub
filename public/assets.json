@@ -702,5 +702,30 @@
     "coingeckoUrl": "",
     "lockTimer": "1970-10-18T15:00:00Z",
     "lockUrl": ""
+  },
+  {
+    "name": "NanoGen",
+    "symbol": "NGEN",
+    "supply": "1000000000",
+    "address": "0xF84B713c7a6e3DA38a96049A4E94dA751e536a83",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/nanogen.png",
+    "stakingContract": "",
+    "bubbleLockTokenId": "",
+    "priceInfo": {
+      "poolAddress": "0x8d29bf3fbcd621e64771e5bf24dda3fc66affa60",
+      "feeTier": 500,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://www.nanogenai.xyz",
+    "X": "https://x.com/nanogenai",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": ""
   }
 ]
