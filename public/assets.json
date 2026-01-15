@@ -229,7 +229,7 @@
     "decimals": 6,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shidoshi.png",
     "stakingContract": "0xE8268B6685Ea58a100BA920a31DbC9488A0cf254",
-    "bubbleLockTokenId": "628",
+    "bubbleLockTokenId": "409",
     "priceInfo": {
       "poolAddress": "0x258b4bd56428c97ecac4903c1cba6303254d1c48",
       "feeTier": 10000,
