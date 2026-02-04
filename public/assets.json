@@ -2,7 +2,7 @@
   {
     "name": "WSHIDO",
     "symbol": "WSHIDO",
-    "supply": "18000000000",
+    "supply": "24113000000",
     "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
@@ -23,7 +23,8 @@
     "cmcUrl": "https://coinmarketcap.com/currencies/wrapped-shido/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/wrapped-shido",
     "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": true
   },
   {
     "name": "Kensei",
@@ -48,7 +49,8 @@
     "telegram": "https://t.me/kenseishido",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "coreAsset": false
   },
   {
     "name": "Rakun",
@@ -73,7 +75,8 @@
     "telegram": "https://t.me/kenseishido",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "coreAsset": false
   },
   {
     "name": "Shido Ninja",
@@ -97,7 +100,8 @@
     "telegram": "https://t.me/ShidoGlobal",
     "verified": true,
     "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": false
   },
   {
     "name": "Salt",
@@ -121,7 +125,8 @@
     "telegram": "https://t.me/SaltOnShido",
     "verified": true,
     "lockUrl": "https://gempad.app/locks/liquidity?id=2&network=Shido",
-    "lockTimer": "2026-07-31T00:00:00Z"
+    "lockTimer": "2026-07-31T00:00:00Z",
+    "coreAsset": false
   },
   {
     "name": "Shidokid",
@@ -145,7 +150,8 @@
     "X": "https://x.com/shidokid",
     "verified": true,
     "lockTimer": "2027-09-30T13:06:00Z",
-    "lockUrl": "https://gempad.app/locks/liquidity?id=52&network=Shido"
+    "lockUrl": "https://gempad.app/locks/liquidity?id=52&network=Shido",
+    "coreAsset": false
   },
   {
     "name": "Crazy-Chicken",
@@ -169,7 +175,8 @@
     "X": "https://x.com/chick_shi20",
     "verified": true,
     "lockUrl": "https://gempad.app/locks/project?token=0x37385e458bb1b19c614C238E5109E59ac605DF7a&network=Shido",
-    "lockTimer": "2025-12-31T13:41:00Z"
+    "lockTimer": "2025-12-31T13:41:00Z",
+    "coreAsset": false
   },
   {
     "name": "0xDead",
@@ -193,7 +200,8 @@
     "X": "https://x.com/0xdeadshi20",
     "verified": true,
     "lockUrl": "https://gempad.app/locks/liquidity?id=57&network=Shido",
-    "lockTimer": "2026-02-26T21:28:00Z"
+    "lockTimer": "2026-02-26T21:28:00Z",
+    "coreAsset": false
   },
   {
     "name": "Shido Dex",
@@ -219,7 +227,8 @@
     "cmcUrl": "https://coinmarketcap.com/currencies/shido-dex/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/shido-dex",
     "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": true
   },
   {
     "name": "Shidoshi",
@@ -244,7 +253,8 @@
     "X": "https://x.com/Shidoshi_shi20",
     "verified": true,
     "cmcUrl": "",
-    "coingeckoUrl": ""
+    "coingeckoUrl": "",
+    "coreAsset": false
   },
   {
     "name": "USDC",
@@ -261,7 +271,8 @@
     "telegram": "https://t.me/ShidoGlobal",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc",
+    "coreAsset": true
   },
   {
     "name": "Tether USDT",
@@ -278,7 +289,8 @@
     "telegram": "https://t.me/ShidoGlobal",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/tether/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/tether"
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/tether",
+    "coreAsset": false
   },
   {
   "name": "MSMoon",
@@ -304,7 +316,8 @@
   "cmcUrl": "",
   "coingeckoUrl": "",
   "lockUrl": "https://gempad.app/locks/liquidity?id=72&network=Shido",
-  "lockTimer": "2026-07-31T15:00:00Z"
+  "lockTimer": "2026-07-31T15:00:00Z",
+  "coreAsset": false
   },
   {
   "name": "Ippon",
@@ -330,7 +343,8 @@
   "cmcUrl": "",
   "coingeckoUrl": "",
   "lockUrl": "",
-  "lockTimer": "1970-08-06T15:00:00Z"
+  "lockTimer": "1970-08-06T15:00:00Z",
+  "coreAsset": false
   },
   {
   "name": "Boobies",
@@ -356,7 +370,8 @@
   "cmcUrl": "",
   "coingeckoUrl": "",
   "lockUrl": "",
-  "lockTimer": "1970-08-06T15:00:00Z"
+  "lockTimer": "1970-08-06T15:00:00Z",
+  "coreAsset": false
   },
   {
     "name": "NERD",
@@ -380,7 +395,8 @@
     "X": "https://x.com/shidoNERD",
     "verified": true,
     "lockTimer": "2025-10-18T15:00:00Z",
-    "lockUrl": "https://gempad.app/locks/liquidity?id=85&network=Shido"
+    "lockUrl": "https://gempad.app/locks/liquidity?id=85&network=Shido",
+    "coreAsset": false
   },
   {
     "name": "Prem. Coffee",
@@ -404,7 +420,8 @@
     "X": "",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Shi-Aster",
@@ -428,7 +445,8 @@
     "X": "",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Qubiton",
@@ -452,7 +470,8 @@
     "X": "https://x.com/KTian45909",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Bushido",
@@ -476,7 +495,8 @@
     "X": "",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Chill Cat",
@@ -500,7 +520,8 @@
     "X": "",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "我学中文是为了下一次牛市",
@@ -524,7 +545,8 @@
     "X": "",
     "verified": true,
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "HodlJeet",
@@ -547,7 +569,8 @@
     "website": "https://hodljeet-meme-coin-493093379564.us-west1.run.app/",
     "telegram": "https://t.me/HODLJEET",
     "X": "https://x.com/hodljeet",
-    "verified": true
+    "verified": true,
+    "coreAsset": false
   },
   {
     "name": "GhostDojo",
@@ -572,7 +595,8 @@
     "telegram": "https://t.me/+VlABRXpLnyBjNTlk",
     "verified": true,
     "cmcUrl": "",
-    "coingeckoUrl": ""
+    "coingeckoUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Manga Coin",
@@ -598,7 +622,8 @@
     "cmcUrl": "",
     "coingeckoUrl": "",
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
  },
  {
     "name": "BubbleButt",
@@ -623,7 +648,8 @@
     "telegram": "https://t.me/BubbleButtOO",
     "verified": true,
     "cmcUrl": "",
-    "coingeckoUrl": ""
+    "coingeckoUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Mycroft",
@@ -649,7 +675,8 @@
     "cmcUrl": "",
     "coingeckoUrl": "",
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "GNUS",
@@ -675,7 +702,8 @@
     "cmcUrl": "",
     "coingeckoUrl": "",
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "Kitsune",
@@ -701,7 +729,8 @@
     "cmcUrl": "",
     "coingeckoUrl": "",
     "lockTimer": "1970-10-18T15:00:00Z",
-    "lockUrl": ""
+    "lockUrl": "",
+    "coreAsset": false
   },
   {
     "name": "NanoGen",
@@ -726,6 +755,7 @@
     "telegram": "",
     "verified": true,
     "cmcUrl": "",
-    "coingeckoUrl": ""
+    "coingeckoUrl": "",
+    "coreAsset": false
   }
 ]
