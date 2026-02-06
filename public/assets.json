@@ -762,7 +762,7 @@
     "name": "DOGWIFSUIT",
     "symbol": "DWS",
     "supply": "69000000",
-    "address": "",
+    "address": "0x0000000000000000000000000000000000000000",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dws.png",
     "stakingContract": "",
