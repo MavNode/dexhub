@@ -794,7 +794,7 @@
     "stakingContract": "",
     "bubbleLockTokenId": "",
     "priceInfo": {
-      "poolAddress": "",
+      "poolAddress": "0x0AB9Ce663A304E1De114d6D1b75d37a68aCa2111",
       "feeTier": 10000,
       "baseToken": {
         "symbol": "SDS",
