@@ -783,5 +783,31 @@
     "cmcUrl": "",
     "coingeckoUrl": "",
     "coreAsset": false
+  },
+  {
+    "name": "Deshi",
+    "symbol": "DESHI",
+    "supply": "100000000",
+    "address": "0xC1837b743Bc80e2fe20D96BdC5E336ca641A4eDe",
+    "decimals": 18,
+    "logo": "https://i.postimg.cc/yN5L4JTD/DESHI-logo.png",
+    "stakingContract": "",
+    "bubbleLockTokenId": "",
+    "priceInfo": {
+      "poolAddress": "",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "SDS",
+        "address": "0xF7B264B723059a05fBf13E32783F88db33A24365",
+        "decimals": 6
+      }
+    },
+    "website": "https://shidodutch.com/shidoshi/",
+    "X": "https://x.com/Shidoshi_shi20",
+    "telegram": "https://t.me/ShidoshiVerify",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "coreAsset": false
   }
 ]
