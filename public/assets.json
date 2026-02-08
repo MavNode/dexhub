@@ -27,6 +27,32 @@
     "coreAsset": true
   },
   {
+    "name": "DOGWIFSUIT",
+    "symbol": "DWS",
+    "supply": "69000000",
+    "address": "0x48aE766db9A526E8115AB498FDFCd40b5B22A641",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dws.png",
+    "stakingContract": "",
+    "bubbleLockTokenId": "",
+    "priceInfo": {
+      "poolAddress": "",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "website": "https://dws.bubbleswap.io",
+    "X": "",
+    "telegram": "https://t.me/dws_shido",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "coreAsset": false
+  },
+  {
     "name": "Kensei",
     "symbol": "KENSEI",
     "supply": "50000000000",
@@ -752,32 +778,6 @@
     },
     "website": "https://www.nanogenai.xyz",
     "X": "https://x.com/nanogenai",
-    "telegram": "",
-    "verified": true,
-    "cmcUrl": "",
-    "coingeckoUrl": "",
-    "coreAsset": false
-  },
-  {
-    "name": "DOGWIFSUIT",
-    "symbol": "DWS",
-    "supply": "69000000",
-    "address": "0x0000000000000000000000000000000000000000",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dws.png",
-    "stakingContract": "",
-    "bubbleLockTokenId": "",
-    "priceInfo": {
-      "poolAddress": "",
-      "feeTier": 10000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "website": "",
-    "X": "",
     "telegram": "",
     "verified": true,
     "cmcUrl": "",
