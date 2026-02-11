@@ -36,7 +36,7 @@
     "stakingContract": "",
     "bubbleLockTokenId": "",
     "priceInfo": {
-      "poolAddress": "",
+      "poolAddress": "0x8508697be4e91eb0bcfcaf712d55204b8511fcb6",
       "feeTier": 10000,
       "baseToken": {
         "symbol": "WSHIDO",
