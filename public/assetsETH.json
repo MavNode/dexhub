@@ -17,11 +17,58 @@
       }
     },
     "website": "https://shido.io",
-    "X": "https://twitter.com/Network",
+    "X": "https://twitter.com/ShidoNetwork",
     "telegram": "https://t.me/ShidoGlobal",
     "verified": true,
     "cmcUrl": "https://coinmarketcap.com/currencies/shido-network/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/shido",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": true
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "supply": "",
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/eth.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
+      "feeTier": 500,
+      "baseToken": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6
+      }
+    },
+    "website": "https://ethereum.org",
+    "X": "",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/ethereum/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/ethereum",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": true
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "usdPrice": 1
+    },
+    "website": "https://www.circle.com/usdc",
+    "X": "https://twitter.com/USDC",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/usd-coin",
     "lockUrl": "",
     "lockTimer": "1970-01-01T00:00:00Z",
     "coreAsset": true
