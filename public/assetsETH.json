@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Shido",
+    "symbol": "SHIDO",
+    "supply": "24113000000",
+    "address": "0x0e173Bfd28eF21bc460718bcd9b610b7Fcd7F041",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/wshido.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x9b45b86fe96e17430fd4b2f9f2da8ddd9aa3b632",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6
+      }
+    },
+    "website": "https://shido.io",
+    "X": "https://twitter.com/Network",
+    "telegram": "https://t.me/ShidoGlobal",
+    "verified": true,
+    "cmcUrl": "https://coinmarketcap.com/currencies/shido-network/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/shido",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": true
+  }
+]
