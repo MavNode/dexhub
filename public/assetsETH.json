@@ -32,7 +32,7 @@
     "supply": "",
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/eth.png",
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/weth.png",
     "stakingContract": "",
     "priceInfo": {
       "poolAddress": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
