@@ -33,7 +33,7 @@
     "address": "0x302c63d7A90770B3Fb374893E9325988Fa68B12A",
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dws.png",
-    "stakingContract": "",
+    "stakingContract": "0x9C9fB83dCc559190b599208746A90cd30534059D",
     "bubbleLockTokenId": "",
     "priceInfo": {
       "poolAddress": "0x8508697be4e91eb0bcfcaf712d55204b8511fcb6",
