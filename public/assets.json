@@ -791,7 +791,7 @@
     "address": "0xC1837b743Bc80e2fe20D96BdC5E336ca641A4eDe",
     "decimals": 18,
     "logo": "https://i.postimg.cc/yN5L4JTD/DESHI-logo.png",
-    "stakingContract": "",
+    "stakingContract": "0x4d7f26419053348d64Deb3B4D8A8DcE0d1eD916B",
     "bubbleLockTokenId": "",
     "priceInfo": {
       "poolAddress": "0x0AB9Ce663A304E1De114d6D1b75d37a68aCa2111",
