@@ -207,5 +207,140 @@
     "lockUrl": "",
     "lockTimer": "1970-01-01T00:00:00Z",
     "coreAsset": false
+  },
+  {
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "supply": "",
+    "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33251.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0xcdf9f50519eb0a9995730ddb6e7d3a8b1d8ffa07",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": false
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "supply": "",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x2f62f2b4c5fcd7570a709dec05d68ea19c82a9ec",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": false
+  },
+  {
+    "name": "Aave",
+    "symbol": "SHIB",
+    "supply": "",
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": false
+  },
+  {
+    "name": "Polygon",
+    "symbol": "POL",
+    "supply": "",
+    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x88ada7b1dd1c728ea87404cea7a0780139eb35d1",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": false
+  },
+  {
+    "name": "Quant",
+    "symbol": "QNT",
+    "supply": "",
+    "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "stakingContract": "",
+    "priceInfo": {
+      "poolAddress": "0x24ee2c6b9597f035088cda8575e9d5e15a84b9df",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "",
+    "X": "",
+    "telegram": "",
+    "verified": true,
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "lockUrl": "",
+    "lockTimer": "1970-01-01T00:00:00Z",
+    "coreAsset": false
   }
 ]
