@@ -1,4 +1,32 @@
 [
+   {
+    "name": "DOGWIFSUIT",
+    "symbol": "DWS",
+    "address": "0x302c63d7A90770B3Fb374893E9325988Fa68B12A",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/dws.png",
+    "priceInfo": {
+      "poolAddress": "0x8508697be4e91eb0bcfcaf712d55204b8511fcb6",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "WSHIDO",
+        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
+        "decimals": 18
+      }
+    },
+    "featured": true,
+    "new": false,
+    "category": "Meme",
+    "verified": true,
+    "supply": "69000000",
+    "stakingContract": "",
+    "website": "https://dws.bubbleswap.io",
+    "X": "",
+    "telegram": "https://t.me/dws_shido",
+    "cmcUrl": "",
+    "coingeckoUrl": "",
+    "bubbleLockTokenId": ""
+  },
   {
     "name": "Kensei",
     "symbol": "KENSEI",
@@ -25,8 +53,35 @@
     "telegram": "https://t.me/kenseishido",
     "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
-    "lockUrl": "https://gempad.app/locks/liquidity?id=63&network=Shido",
-    "lockTimer": "2025-06-05T08:00:00Z"
+    "bubbleLockTokenId": "130"
+  },
+  {
+    "name": "Rakun",
+    "symbol": "RAKUN",
+    "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/rakun.png",
+    "priceInfo": {
+      "poolAddress": "0xf4206e9a6ee82b75e0ae201fff24b730c12bc513",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "KENSEI",
+        "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+        "decimals": 18
+      }
+    },
+    "featured": true,
+    "new": false,
+    "category": "Meme",
+    "verified": true,
+    "supply": "21000000",
+    "stakingContract": "",
+    "website": "https://kenseishido.xyz",
+    "X": "https://x.com/kenseishido",
+    "telegram": "https://t.me/kenseishido",
+    "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
+    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "bubbleLockTokenId": "628"
   },
   {
     "name": "WSHIDO",
@@ -45,7 +100,7 @@
     },
     "featured": true,
     "new": false,
-    "category": "Native Token",
+    "category": "Wrapped",
     "verified": true,
     "supply": "18000000000",
     "website": "https://shido.io",
@@ -53,57 +108,6 @@
     "telegram": "https://t.me/ShidoGlobal",
     "cmcUrl": "https://coinmarketcap.com/currencies/wrapped-shido/",
     "coingeckoUrl": "https://www.coingecko.com/en/coins/wrapped-shido",
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "Shido Dex",
-    "symbol": "SHDX",
-    "address": "0xe550Bde2F0898552B38a41635d7a8DDB1Fd81276",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/shdx.png",
-    "priceInfo": {
-      "poolAddress": "0x0cd72bfeed75ea4e1a7c5928aa9d9ba40312a876",
-      "feeTier": 3000,
-      "baseToken": {
-        "symbol": "WSHIDO",
-        "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
-        "decimals": 18
-      }
-    },
-    "featured": true,
-    "new": false,
-    "category": "Native Dex Token",
-    "verified": true,
-    "supply": "10000000000",
-    "stakingContract": "0xC4802A4F8B590c0D15D48c76c1E2A7289876E4B2",
-    "website": "https://app.shido.io",
-    "telegram": "https://t.me/ShidoGlobal",
-    "X": "https://x.com/ShidoGlobal",
-    "cmcUrl": "https://coinmarketcap.com/currencies/shido-dex/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/shido-dex",
-    "lockUrl": "",
-    "lockTimer": "1970-01-01T00:00:00Z"
-  },
-  {
-    "name": "USDC",
-    "symbol": "USDC",
-    "address": "0xeE1Fc22381e6B6bb5ee3bf6B5ec58DF6F5480dF8",
-    "decimals": 6,
-    "logo": "https://raw.githubusercontent.com/MavNode/dexhub/refs/heads/main/images/usdc.png",
-    "priceInfo": {
-      "usdPrice": 1
-    },
-    "featured": true,
-    "new": false,
-    "category": "Stablecoin",
-    "verified": true,
-    "supply": "",
-    "website": "https://usdc.com/",
-    "X": "https://twitter.com/USDC",
-    "telegram": "https://t.me/ShidoGlobal",
-    "cmcUrl": "https://coinmarketcap.com/currencies/usd-coin/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/usdc",
     "lockUrl": "",
     "lockTimer": "1970-01-01T00:00:00Z"
   }
