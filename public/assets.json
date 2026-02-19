@@ -100,8 +100,8 @@
     "X": "https://x.com/kenseishido",
     "telegram": "https://t.me/kenseishido",
     "verified": true,
-    "cmcUrl": "https://coinmarketcap.com/currencies/kensei/",
-    "coingeckoUrl": "https://www.coingecko.com/en/coins/kensei",
+    "cmcUrl": "",
+    "coingeckoUrl": "",
     "coreAsset": false
   },
   {
