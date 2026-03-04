@@ -1,0 +1,228 @@
+[
+  {
+    "name": "Shido",
+    "symbol": "SHIDO",
+    "supply": "24113000000",
+    "address": "0x0e173Bfd28eF21bc460718bcd9b610b7Fcd7F041",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34836.png",
+    "priceInfo": {
+      "poolAddress": "0x9b45b86fe96e17430fd4b2f9f2da8ddd9aa3b632",
+      "feeTier": 10000,
+      "baseToken": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6
+      }
+    },
+    "website": "https://shido.io"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "supply": "",
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "priceInfo": {
+      "poolAddress": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
+      "feeTier": 500,
+      "baseToken": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6
+      }
+    },
+    "website": "https://ethereum.org"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "priceInfo": {
+      "usdPrice": 1
+    },
+    "website": "https://www.circle.com/usdc"
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "supply": "",
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "priceInfo": {
+      "poolAddress": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+      "feeTier": 500,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "https://wbtc.network"
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "supply": "",
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "priceInfo": {
+      "poolAddress": "0xa6Cc3C2531FdaA6Ae1A3CA84c2855806728693e8",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "https://chain.link"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "supply": "",
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "priceInfo": {
+      "poolAddress": "0x1d42064Fc4Beb5F8aAF85F4617AE8b3b5B8Bd801",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "https://uniswap.org"
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "supply": "",
+    "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png",
+    "priceInfo": {
+      "poolAddress": "0x11950d141EcB863F01007AdD7D1A342041227b58",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "https://www.pepe.vip"
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "supply": "",
+    "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png",
+    "priceInfo": {
+      "poolAddress": "0x59354356Ec5d56306791873f567d61EBf11DFbD5",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": "https://arbitrum.io"
+  },
+  {
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "supply": "",
+    "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33251.png",
+    "priceInfo": {
+      "poolAddress": "0xcdf9f50519eb0a9995730ddb6e7d3a8b1d8ffa07",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": ""
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "supply": "",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+    "priceInfo": {
+      "poolAddress": "0x2f62f2b4c5fcd7570a709dec05d68ea19c82a9ec",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": ""
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "supply": "",
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+    "priceInfo": {
+      "poolAddress": "0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": ""
+  },
+  {
+    "name": "Polygon",
+    "symbol": "POL",
+    "supply": "",
+    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png",
+    "priceInfo": {
+      "poolAddress": "0x88ada7b1dd1c728ea87404cea7a0780139eb35d1",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": ""
+  },
+  {
+    "name": "Quant",
+    "symbol": "QNT",
+    "supply": "",
+    "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "priceInfo": {
+      "poolAddress": "0x24ee2c6b9597f035088cda8575e9d5e15a84b9df",
+      "feeTier": 3000,
+      "baseToken": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    },
+    "website": ""
+  }
+]
